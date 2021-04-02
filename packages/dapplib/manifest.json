@@ -1,0 +1,19 @@
+{
+    "name": "B2BDAPP",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "folder",
+        "/category/asset_value_tracking/token/symbol": "B2BC",
+        "/category/asset_value_tracking/token/name": "B2B Coin",
+        "/category/collection/entity": true,
+        "/category/asset_value_tracking/token/decimals": "2",
+        "/category/asset_value_tracking/token/supply": "2000000000",
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/contract_access": true
+    }
+}
